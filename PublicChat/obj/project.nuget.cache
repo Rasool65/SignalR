@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "dZQjxGQ7DWvnlp5bqqvnH+qWjVmX05o+PvMmB6d9lq2modiMNNiX4lG0aaE7PIN0x++6+rHAnv1nnxg9k7dINg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rasool-PC\\Desktop\\PublicChat\\PublicChat\\PublicChat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rasool-PC\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Rasool-PC\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Rasool-PC\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Rasool-PC\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Rasool-PC\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Rasool-PC\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
