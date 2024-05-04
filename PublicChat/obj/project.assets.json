@@ -215,11 +215,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rasool-PC\\Desktop\\PublicChat\\PublicChat\\PublicChat.csproj",
+      "projectUniqueName": "C:\\Users\\Rasool-PC\\Documents\\GitHub\\SignalR\\PublicChat\\PublicChat.csproj",
       "projectName": "PublicChat",
-      "projectPath": "C:\\Users\\Rasool-PC\\Desktop\\PublicChat\\PublicChat\\PublicChat.csproj",
+      "projectPath": "C:\\Users\\Rasool-PC\\Documents\\GitHub\\SignalR\\PublicChat\\PublicChat.csproj",
       "packagesPath": "C:\\Users\\Rasool-PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rasool-PC\\Desktop\\PublicChat\\PublicChat\\obj\\",
+      "outputPath": "C:\\Users\\Rasool-PC\\Documents\\GitHub\\SignalR\\PublicChat\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

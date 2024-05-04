@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dZQjxGQ7DWvnlp5bqqvnH+qWjVmX05o+PvMmB6d9lq2modiMNNiX4lG0aaE7PIN0x++6+rHAnv1nnxg9k7dINg==",
+  "dgSpecHash": "mC9T6p4uQYTli0Pt4zNGxJl06kYYbNrKbv1qivN/ehz92cg6zCRePUTzp2SNLunAGtTv+l1Gczqg5zfr5ID8hw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rasool-PC\\Desktop\\PublicChat\\PublicChat\\PublicChat.csproj",
+  "projectFilePath": "C:\\Users\\Rasool-PC\\Documents\\GitHub\\SignalR\\PublicChat\\PublicChat.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rasool-PC\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Rasool-PC\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
